@@ -15,6 +15,9 @@
 
 Связаться со мной можно через LinkedIn (https://www.linkedin.com/in/nickgela/) или по электронной почте (nick.geladze92@icloud.com).
 
+Mое резюме:
+https://tbilisi.headhunter.ge/resume/6fb75512ff0d1d1bca0039ed1f384d597a6e43
+
 <!---
 nickgela007/nickgela007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
