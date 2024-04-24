@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nickgela007
+- 👋 Hi, I’m Nikolai
 - 👀 I’m interested in working in IT
 - 🌱 I’m currently learning QA
 - 💞️ I’m looking to collaborate on ...
